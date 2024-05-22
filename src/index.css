@@ -1,0 +1,17 @@
+header {
+  background-color: red;
+  position: fixed;
+  width: 100vw;
+  top: 0;
+
+}
+
+.scroll-section {
+  background-color: rgb(7, 255, 106);
+  height: 20px;
+}
+
+.scroll {
+  height: 100%;
+  background-color: black;
+}
